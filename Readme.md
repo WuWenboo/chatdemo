@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/WuWenboo/chatdemo)
+
 # 系统简介
 
 本系统采用 C/S 架构，基于 Boost.Asio 和 gRPC 构建了一个支持分布式部署的聊天平台，实现了登录注册、密码重置、消息收发、好友搜索、好友推荐、申请与验证等核心功能。
